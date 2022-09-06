@@ -53,6 +53,7 @@ All courses are recorded by Ivan Petrichenko
 **Language level:**
 
 ![language](img/language.jpg)
+
 English - Intermediate
 Russian - Native
 Turkish - Begginer
