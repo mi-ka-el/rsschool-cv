@@ -2,9 +2,7 @@
 
 ---
 
-![photo](img/photo.jpg)
-
----
+![photo](img/photo.jpg =600x750)
 
 **Location:** Kusadasi
 
