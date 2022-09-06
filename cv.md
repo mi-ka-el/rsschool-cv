@@ -12,7 +12,7 @@
 
 ---
 
-**About myself:** I have been interested technology and programming very long time, but everytime something or someone didnt allow me to try this. Now im a mediabuyer, who works with mobile app advertising. I started to learn HTML/CSS/JS and three months ago i think this is my part of life.
+**About myself:** I have been interested technology and programming very long time, but everytime something or someone didnt allow me to try this. Now im a mediabuyer, who works with mobile app advertising. I started to learn HTML/CSS/JS three months ago and i think this is my part of life.
 
 ---
 
@@ -46,7 +46,7 @@ function derive(coefficient,exponent) {
     -   Web-developer (Complete 100%)
     -   JavaScript + React (Complete 30%)
 
-All courses are recorded by Ivan Petrichenko
+All courses are recorded by [Ivan Petrichenko](https://www.udemy.com/user/yan-kovalenko-2/)
 
 ---
 
@@ -54,6 +54,8 @@ All courses are recorded by Ivan Petrichenko
 
 ![language](img/language.jpg)
 
-English - Intermediate
-Russian - Native
-Turkish - Begginer
+-   English - Intermediate
+
+-   Russian - Native
+
+-   Turkish - Begginer
