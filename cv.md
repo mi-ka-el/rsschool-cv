@@ -1,4 +1,4 @@
-#**Mikhail Smirnov**
+**Mikhail Smirnov**
 
 ---
 
@@ -6,8 +6,8 @@
 
 ---
 
-###**Location:** Kusadasi
+**Location:** Kusadasi
 
-###**Phone:** +905340311519
+**Phone:** +905340311519
 
-###**Telegram:** @honeyface
+**Telegram:** @honeyface
